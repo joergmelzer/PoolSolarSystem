@@ -1,6 +1,6 @@
 # PoolSolarSystem
 
-Ein modularer System für die Technik deines Pools.
+Ein modulares, leicht nachbaubares System für DIY-Wassertechnik – entwickelt mit Fokus auf Einfachheit, Erweiterbarkeit und langlebige Konstruktionen.
 
 ## Struktur
 
