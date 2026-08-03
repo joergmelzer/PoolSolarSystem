@@ -7,3 +7,4 @@ Hier findest du:
 - Bedienungsanleitungen
 - Technische Spezifikationen
 - Troubleshooting
+- API-Dokumentation

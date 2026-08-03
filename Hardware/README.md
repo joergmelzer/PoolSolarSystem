@@ -3,7 +3,11 @@
 Hardware-Spezifikationen, Schaltpläne und Komponenten des PoolSolarSystem.
 
 Dieses Verzeichnis enthält:
-- Schaltpläne
+- Schaltpläne und Verkabelungspläne
 - Komponentenlisten (BOM)
-- Pinout-Diagramme
 - Hardware-Dokumentation
+
+## Unterverzeichnisse
+
+- **Wiring/** - Schaltpläne und Verkabelungspläne
+- **BOM/** - Stücklisten und Komponentenübersichten

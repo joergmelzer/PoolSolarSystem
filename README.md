@@ -1,6 +1,6 @@
 # PoolSolarSystem
 
-Ein modulares, leicht nachbaubares System für DIY-Wassertechnik – entwickelt mit Fokus auf Einfachheit, Erweiterbarkeit und langlebige Konstruktionen.
+Ein modularer System für die Technik deines Pools.
 
 ## Struktur
 
@@ -10,5 +10,12 @@ Ein modulares, leicht nachbaubares System für DIY-Wassertechnik – entwickelt 
   - STEP/ - CAD-Austauschformat
   - Images/ - Renderbilder und Visualisierungen
 - **Firmware/** - Mikrocontroller-Firmware und Steuerungscode
-- **Docs/** - Dokumentation und Anleitungen
+  - src/ - Quellcode
+  - include/ - Header-Dateien
+  - lib/ - Bibliotheken
+  - data/ - Daten und Konfigurationen
 - **Hardware/** - Hardware-Spezifikationen und Schaltpläne
+  - Wiring/ - Schaltpläne und Verkabelung
+  - BOM/ - Stücklisten (Bill of Materials)
+- **Docs/** - Dokumentation und Anleitungen
+- **Pictures/** - Fotos und Bilder des Projekts

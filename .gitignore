@@ -1,0 +1,38 @@
+# Ignore compiled files
+*.o
+*.a
+*.so
+*.elf
+*.hex
+*.bin
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Ignore build directories
+build/
+dist/
+*.egg-info/
+__pycache__/
+.pytest_cache/
+
+# Ignore dependencies
+node_modules/
+.env
+.env.local
+
+# Ignore CAD backup files
+*.bak
+*.backup
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+.tmp/
+.temp/
